@@ -37,5 +37,7 @@ YYが、01以上のドキュメントは、appendix(=補足説明資料)です�
 - .to_s, join, split, match(//)
 - begin, rescue, end
 - resque
+- mongodbのメンテ。dump, restore
+
 
 
