@@ -18,11 +18,12 @@ YYが、01以上のドキュメントは、appendix(=補足説明資料)です�
 
 
 ## ドキュメントつくろうかな検討項目
-- form_for
+- form_for, link_to
+- redirect_to, render
 - そもそもだけど、関数返り値とか
 - each
 - 画像アップロード(carrierwave+fog+ s3/google cloud strage)
-- メール送信 () 
+- メール送信 (ActionMailer + ses ) 
 - capistrano
 - GoogleComputeEngine
 - CircleCI
@@ -31,3 +32,10 @@ YYが、01以上のドキュメントは、appendix(=補足説明資料)です�
 - unicorn/nginx設定
 - assets:precompile, secrets.yml, config.serve_static_assets, config.assets.debug, config.assets.compress
 - turbolink
+- エラー画面作成
+- present?, blank? 
+- .to_s, join, split, match(//)
+- begin, rescue, end
+- resque
+
+
